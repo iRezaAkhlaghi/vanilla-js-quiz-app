@@ -1,0 +1,279 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the output of 'typeof NaN' in JavaScript?",
+      "options": ["undefined", "number", "NaN", "object"],
+      "answer": "number",
+      "difficulty": "hard",
+      "category": "JavaScript"
+    },
+    {
+      "id": 2,
+      "question": "Which sorting algorithm has the best average-case time complexity?",
+      "options": ["Bubble Sort", "Merge Sort", "Selection Sort", "Insertion Sort"],
+      "answer": "Merge Sort",
+      "difficulty": "hard",
+      "category": "Computer Science"
+    },
+    {
+      "id": 3,
+      "question": "What does the acronym 'JWT' stand for?",
+      "options": ["Java Web Token", "JSON Web Token", "JavaScript Web Token", "JQuery Web Token"],
+      "answer": "JSON Web Token",
+      "difficulty": "medium",
+      "category": "Web Security"
+    },
+    {
+      "id": 4,
+      "question": "Who painted 'The Persistence of Memory'?",
+      "options": ["Pablo Picasso", "Salvador Dalí", "Vincent Van Gogh", "Leonardo da Vinci"],
+      "answer": "Salvador Dalí",
+      "difficulty": "easy",
+      "category": "Art"
+    },
+    {
+      "id": 5,
+      "question": "What is the result of '0.1 + 0.2 === 0.3' in JS?",
+      "options": ["true", "false"],
+      "answer": "false",
+      "difficulty": "hard",
+      "category": "JavaScript"
+    },
+    {
+      "id": 6,
+      "question": "In HTTP, what status code means 'Not Found'?",
+      "options": ["200", "301", "404", "500"],
+      "answer": "404",
+      "difficulty": "easy",
+      "category": "Web"
+    },
+    {
+      "id": 7,
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Nitrogen",
+      "difficulty": "easy",
+      "category": "Science"
+    },
+    {
+      "id": 8,
+      "question": "Which CSS property controls the text size?",
+      "options": ["font-weight", "font-size", "text-style", "text-size"],
+      "answer": "font-size",
+      "difficulty": "easy",
+      "category": "CSS"
+    },
+    {
+      "id": 9,
+      "question": "What is the main purpose of the DNS system?",
+      "options": [
+        "Translate domain names to IP addresses",
+        "Store website content",
+        "Manage emails",
+        "Secure network traffic"
+      ],
+      "answer": "Translate domain names to IP addresses",
+      "difficulty": "medium",
+      "category": "Networking"
+    },
+    {
+      "id": 10,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+      "answer": "Mars",
+      "difficulty": "easy",
+      "category": "Astronomy"
+    },
+    {
+      "id": 11,
+      "question": "What is a closure in JavaScript?",
+      "options": [
+        "A function having access to the parent scope",
+        "An immediately invoked function",
+        "A global variable",
+        "A JavaScript library"
+      ],
+      "answer": "A function having access to the parent scope",
+      "difficulty": "hard",
+      "category": "JavaScript"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT a programming paradigm?",
+      "options": ["Functional", "Object-oriented", "Procedural", "Rectangular"],
+      "answer": "Rectangular",
+      "difficulty": "medium",
+      "category": "Programming"
+    },
+    {
+      "id": 13,
+      "question": "What does CSS stand for?",
+      "options": [
+        "Creative Style Sheets",
+        "Colorful Style Sheets",
+        "Cascading Style Sheets",
+        "Computer Style Sheets"
+      ],
+      "answer": "Cascading Style Sheets",
+      "difficulty": "easy",
+      "category": "CSS"
+    },
+    {
+      "id": 14,
+      "question": "In which year was the Python programming language released?",
+      "options": ["1989", "1991", "1995", "2000"],
+      "answer": "1991",
+      "difficulty": "medium",
+      "category": "Programming"
+    },
+    {
+      "id": 15,
+      "question": "What is the output of the expression `Boolean([])` in JavaScript?",
+      "options": ["true", "false"],
+      "answer": "true",
+      "difficulty": "hard",
+      "category": "JavaScript"
+    },
+    {
+      "id": 16,
+      "question": "What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "answer": "Canberra",
+      "difficulty": "medium",
+      "category": "Geography"
+    },
+    {
+      "id": 17,
+      "question": "Which HTML tag is used to define an unordered list?",
+      "options": ["<ul>", "<ol>", "<li>", "<list>"],
+      "answer": "<ul>",
+      "difficulty": "easy",
+      "category": "HTML"
+    },
+    {
+      "id": 18,
+      "question": "What is the primary language used to style web pages?",
+      "options": ["HTML", "CSS", "JavaScript", "PHP"],
+      "answer": "CSS",
+      "difficulty": "easy",
+      "category": "Web"
+    },
+    {
+      "id": 19,
+      "question": "What is the output of the code: `console.log(0 == '0')`?",
+      "options": ["true", "false"],
+      "answer": "true",
+      "difficulty": "medium",
+      "category": "JavaScript"
+    },
+    {
+      "id": 20,
+      "question": "In networking, what does TCP stand for?",
+      "options": [
+        "Transmission Control Protocol",
+        "Transfer Communication Protocol",
+        "Transport Control Process",
+        "Terminal Control Protocol"
+      ],
+      "answer": "Transmission Control Protocol",
+      "difficulty": "medium",
+      "category": "Networking"
+    },
+    {
+      "id": 21,
+      "question": "What is the Big O complexity of accessing an element in an array by index?",
+      "options": ["O(1)", "O(n)", "O(log n)", "O(n log n)"],
+      "answer": "O(1)",
+      "difficulty": "hard",
+      "category": "Computer Science"
+    },
+    {
+      "id": 22,
+      "question": "Which HTTP method is used to update resources partially?",
+      "options": ["GET", "POST", "PUT", "PATCH"],
+      "answer": "PATCH",
+      "difficulty": "hard",
+      "category": "Web"
+    },
+    {
+      "id": 23,
+      "question": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "Simple Query Language",
+        "Sequential Query Language",
+        "Standard Query Language"
+      ],
+      "answer": "Structured Query Language",
+      "difficulty": "medium",
+      "category": "Databases"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is a NoSQL database?",
+      "options": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+      "answer": "MongoDB",
+      "difficulty": "medium",
+      "category": "Databases"
+    },
+    {
+      "id": 25,
+      "question": "Which planet has the longest rotation period?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Venus",
+      "difficulty": "medium",
+      "category": "Astronomy"
+    },
+    {
+      "id": 26,
+      "question": "What is hoisting in JavaScript?",
+      "options": [
+        "Moving declarations to the top",
+        "Removing unused variables",
+        "Compiling JavaScript",
+        "A JavaScript framework"
+      ],
+      "answer": "Moving declarations to the top",
+      "difficulty": "hard",
+      "category": "JavaScript"
+    },
+    {
+      "id": 27,
+      "question": "Which of these is NOT a JavaScript framework?",
+      "options": ["React", "Vue", "Angular", "Laravel"],
+      "answer": "Laravel",
+      "difficulty": "medium",
+      "category": "JavaScript"
+    },
+    {
+      "id": 28,
+      "question": "What is the primary function of the 'this' keyword in JavaScript?",
+      "options": [
+        "Refers to the current object",
+        "Refers to a global variable",
+        "Defines a new function",
+        "Declares a variable"
+      ],
+      "answer": "Refers to the current object",
+      "difficulty": "hard",
+      "category": "JavaScript"
+    },
+    {
+      "id": 29,
+      "question": "In CSS Flexbox, which property controls the main axis direction?",
+      "options": ["flex-direction", "justify-content", "align-items", "flex-wrap"],
+      "answer": "flex-direction",
+      "difficulty": "medium",
+      "category": "CSS"
+    },
+    {
+      "id": 30,
+      "question": "Which HTML attribute is used to define inline styles?",
+      "options": ["class", "id", "style", "script"],
+      "answer": "style",
+      "difficulty": "easy",
+      "category": "HTML"
+    }
+  ]
+}
